@@ -1,0 +1,5 @@
+site_name: ES Docs v2
+site_url: https://data.exactspace.co/docs2/
+repo_url: https://github.com/peeyush-es/doc-server-v2
+edit_uri: blob/main/docs/
+site_dir: _site
